@@ -4,7 +4,7 @@ A distraction-free speed reading web app that displays **one word at a time** at
 
 Designed for focus, clarity, and smooth reading flow.
 
-Starting dir https://github.com/Jhou-xz/ReadingBoost/Boost
+Starting dir https://jhou-xz.github.io/ReadingBoost/Boost
 
 ---
 
