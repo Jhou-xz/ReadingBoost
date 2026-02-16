@@ -1,0 +1,28 @@
+Welcome.
+
+This reader helps you move through text faster by showing one word at a time.
+
+A good way to use it:
+First ask AI to summarize a long paper or article.
+Then paste the summary here and read it with focus.
+
+How it works.
+
+Your eyes stay fixed.
+Words appear in the same position.
+The red letter marks the visual center, helping recognition and reducing eye movement.
+
+How to begin.
+
+Start slow.
+Choose a comfortable speed.
+Increase gradually as reading feels smooth and clear.
+
+Tips.
+
+Relax your eyes.
+Do not chase the words.
+Use arrow keys to adjust speed or step through text.
+Press space to play or pause.
+
+Enjoy.
